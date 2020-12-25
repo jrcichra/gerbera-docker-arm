@@ -1,3 +1,5 @@
+# NOTE: depricated by this PR: https://github.com/gerbera/gerbera/pull/1072
+
 <img src="https://github.com/gerbera/gerbera/blob/master/artwork/logo-horiz.png?raw=true" />
 
 # Gerbera - UPnP Media Server
